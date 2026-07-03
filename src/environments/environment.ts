@@ -1,1 +1,1 @@
-export const environment = {apiUrl: 'http://localhost:7061'};
+export const environment = {apiUrl: 'https://blog-api-djjg.onrender.com'};
